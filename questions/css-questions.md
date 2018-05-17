@@ -131,6 +131,7 @@ Vertical margins between adjacent block-level boxes in a BFC collapse. Read more
 
 ###### References
 
+* https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/
 * https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Block_formatting_context
 * https://www.sitepoint.com/understanding-block-formatting-contexts-in-css/
 
